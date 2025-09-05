@@ -1,0 +1,20 @@
+C:\Users\t_b0n\source\repos\Discord Messager\Discord Messager\bin\Debug\net8.0-windows\Discord Messager.exe
+C:\Users\t_b0n\source\repos\Discord Messager\Discord Messager\bin\Debug\net8.0-windows\Discord Messager.deps.json
+C:\Users\t_b0n\source\repos\Discord Messager\Discord Messager\bin\Debug\net8.0-windows\Discord Messager.runtimeconfig.json
+C:\Users\t_b0n\source\repos\Discord Messager\Discord Messager\bin\Debug\net8.0-windows\Discord Messager.dll
+C:\Users\t_b0n\source\repos\Discord Messager\Discord Messager\bin\Debug\net8.0-windows\Discord Messager.pdb
+C:\Users\t_b0n\source\repos\Discord Messager\Discord Messager\obj\Debug\net8.0-windows\Discord_Messager.Form1.resources
+C:\Users\t_b0n\source\repos\Discord Messager\Discord Messager\obj\Debug\net8.0-windows\Discord Messager.csproj.GenerateResource.cache
+C:\Users\t_b0n\source\repos\Discord Messager\Discord Messager\obj\Debug\net8.0-windows\Discord Messager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t_b0n\source\repos\Discord Messager\Discord Messager\obj\Debug\net8.0-windows\Discord Messager.AssemblyInfoInputs.cache
+C:\Users\t_b0n\source\repos\Discord Messager\Discord Messager\obj\Debug\net8.0-windows\Discord Messager.AssemblyInfo.cs
+C:\Users\t_b0n\source\repos\Discord Messager\Discord Messager\obj\Debug\net8.0-windows\Discord Messager.csproj.CoreCompileInputs.cache
+C:\Users\t_b0n\source\repos\Discord Messager\Discord Messager\obj\Debug\net8.0-windows\Discord Messager.dll
+C:\Users\t_b0n\source\repos\Discord Messager\Discord Messager\obj\Debug\net8.0-windows\refint\Discord Messager.dll
+C:\Users\t_b0n\source\repos\Discord Messager\Discord Messager\obj\Debug\net8.0-windows\Discord Messager.pdb
+C:\Users\t_b0n\source\repos\Discord Messager\Discord Messager\obj\Debug\net8.0-windows\Discord Messager.genruntimeconfig.cache
+C:\Users\t_b0n\source\repos\Discord Messager\Discord Messager\obj\Debug\net8.0-windows\ref\Discord Messager.dll
+C:\Users\t_b0n\source\repos\Discord Messager\Discord Messager\obj\Debug\net8.0-windows\Discord_Messager.Properties.Resources.resources
+C:\Users\t_b0n\source\repos\Discord Messager\Discord Messager\obj\Debug\net8.0-windows\Discord Messager.csproj.AssemblyReference.cache
+C:\Users\t_b0n\source\repos\Discord Messager\Discord Messager\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\t_b0n\source\repos\Discord Messager\Discord Messager\obj\Debug\net8.0-windows\Discord .321CE755.Up2Date

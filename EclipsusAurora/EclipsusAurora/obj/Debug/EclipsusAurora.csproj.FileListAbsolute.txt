@@ -1,0 +1,17 @@
+C:\Users\t_b0n\source\repos\EclipsusAurora\EclipsusAurora\bin\Debug\EclipsusAurora.exe.config
+C:\Users\t_b0n\source\repos\EclipsusAurora\EclipsusAurora\bin\Debug\EclipsusAurora.exe
+C:\Users\t_b0n\source\repos\EclipsusAurora\EclipsusAurora\bin\Debug\EclipsusAurora.pdb
+C:\Users\t_b0n\source\repos\EclipsusAurora\EclipsusAurora\obj\Debug\EclipsusAurora.csproj.AssemblyReference.cache
+C:\Users\t_b0n\source\repos\EclipsusAurora\EclipsusAurora\obj\Debug\EclipsusAurora.Properties.Resources.resources
+C:\Users\t_b0n\source\repos\EclipsusAurora\EclipsusAurora\obj\Debug\EclipsusAurora.csproj.GenerateResource.cache
+C:\Users\t_b0n\source\repos\EclipsusAurora\EclipsusAurora\obj\Debug\EclipsusAurora.csproj.CoreCompileInputs.cache
+C:\Users\t_b0n\source\repos\EclipsusAurora\EclipsusAurora\obj\Debug\EclipsusAurora.exe
+C:\Users\t_b0n\source\repos\EclipsusAurora\EclipsusAurora\obj\Debug\EclipsusAurora.pdb
+C:\Users\t_b0n\source\repos\EclipsusAurora\EclipsusAurora\obj\Debug\EclipsusAurora.exe.config
+C:\Users\t_b0n\source\repos\EclipsusAurora\EclipsusAurora\bin\Debug\Newtonsoft.Json.dll
+C:\Users\t_b0n\source\repos\EclipsusAurora\EclipsusAurora\bin\Debug\Newtonsoft.Json.xml
+C:\Users\t_b0n\source\repos\EclipsusAurora\EclipsusAurora\obj\Debug\Eclipsus.A7C58304.Up2Date
+C:\Users\t_b0n\source\repos\EclipsusAurora\EclipsusAurora\bin\Debug\cmd.dll
+C:\Users\t_b0n\source\repos\EclipsusAurora\EclipsusAurora\obj\Debug\EclipsusAurora.EclipsusAurora.resources
+C:\Users\t_b0n\source\repos\EclipsusAurora\EclipsusAurora\bin\Debug\ManagedNativeWifi.dll
+C:\Users\t_b0n\source\repos\EclipsusAurora\EclipsusAurora\bin\Debug\ManagedNativeWifi.xml

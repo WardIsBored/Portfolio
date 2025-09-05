@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EclipsusAurora", "EclipsusAurora\EclipsusAurora.csproj", "{22A6191A-A066-44A0-999F-88216C6E8DAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22A6191A-A066-44A0-999F-88216C6E8DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A6191A-A066-44A0-999F-88216C6E8DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A6191A-A066-44A0-999F-88216C6E8DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A6191A-A066-44A0-999F-88216C6E8DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F2A856F-BA24-42FC-94E7-517E35DF2728}
+	EndGlobalSection
+EndGlobal

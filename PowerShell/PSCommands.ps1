@@ -1,0 +1,2 @@
+Get-Command
+Get-Alias

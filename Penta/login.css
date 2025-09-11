@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+    font-family: 'Poppins',Arial, Helvetica, sans-serif;
+    background-color: #1c1e21;
+    background-image: url("images/Bcg.png");
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+
+.Nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(0, 255, 0);
+    font-size: 40px;
+    gap: 20px;
+    text-shadow: 0 0 10px #00ff00, 0 0 20px #00ff00, 0 0 40px #00ff00;
+    background: rgba(43, 43, 43, 0.5);           /* semi-transparent */
+    backdrop-filter: blur(10px);
+    border-radius: 15px;
+}
+
+h1.large {
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.Login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: 40px;
+    height: auto;
+    color: rgb(0, 255, 0);
+    text-shadow: 0 0 10px #00ff00, 0 0 20px #00ff00, 0 0 40px #00ff00;
+    background: rgba(43, 43, 43, 0.5);           /* semi-transparent */
+    backdrop-filter: blur(10px);                 /* frosted glass effect */
+    -webkit-backdrop-filter: blur(10px);         /* Safari support */
+    border-radius: 16px;                         /* optional: rounded corners */
+    box-shadow: 0 4px 32px rgba(0,0,0,0.4);      /* optional: subtle shadow */
+    padding: 40px 32px;   
+        max-width: 400px;   /* Set your desired max width */
+    width: 100%;        /* Responsive: will not exceed max-width */
+    margin-left: auto;  /* Center horizontally */
+    margin-right: auto; /* Center horizontally */                    /* optional: space inside */
+}
+a {
+    color: rgb(0, 255, 0);
+    text-decoration: none;
+}
+.Login form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px; /* optional: space between fields */
+    color: rgb(0, 255, 0);
+    text-shadow: 0 0 10px #00ff00, 0 0 20px #00ff00, 0 0 40px #00ff00;
+    
+}
+.Login input[type="text"],
+.Login input[type="password"] {
+    background-color: #222; /* blackish-grey */
+    color: #00ff00;         /* green text */
+    border: 1px solid #00ff00;
+    padding: 8px 12px;
+    border-radius: 4px;
+    outline: none;
+    font-size: 16px;
+    text-shadow: 0 0 8px #00ff00, 0 0 16px #00ff00;
+}
+
+.Login input[type="text"]:focus,
+.Login input[type="password"]:focus {
+    box-shadow: 0 0 8px #00ff00, 0 0 16px #00ff00;
+}
+
+button.LoginB {
+    background-color: #1c1e21;
+    color: #00ff00;
+    border: 1px solid #00ff00;
+    font-size: 25px;
+    border-radius: 4px;
+}
+
+button.LoginB:hover {
+    background-color: #1c1e21;
+    color: #73ff00;
+    cursor: pointer;
+    box-shadow: 0 0 8px #00ff00, 0 0 16px #00ff00;
+}
